@@ -57,11 +57,11 @@ Relational schema is a collection of meta-data. Database schema describes the st
 _____________________________________________________________________________________________________________________________________________________________________
 - Detailed information gathering has to be done. Without that the purpose for using the software won’t be satisfied properly.
 - However, it can give good profits in the long run.
-o Implementing the software requires change in the business practices.
-o Efficient organization of all knowledge is the analysis company and easy analysis access and retrieval of information is possible.
-o In this project we can also include BAR CODE facility using the bar code reader, which will detect the expiry date and the other information about the related medicines.
-o Company using this software will always be able to plan in future and always be aware of their financial position in the market.
-o It leads to ease in functioning of business processes.
-o The project can be made more robust by including biometric verification.
-o There is also a scope to expand by implementing newer technologies like cloud etc.
+- Implementing the software requires change in the business practices.
+- Efficient organization of all knowledge is the analysis company and easy analysis access and retrieval of information is possible.
+- In this project we can also include BAR CODE facility using the bar code reader, which will detect the expiry date and the other information about the related medicines.
+- Company using this software will always be able to plan in future and always be aware of their financial position in the market.
+- It leads to ease in functioning of business processes.
+- The project can be made more robust by including biometric verification.
+- There is also a scope to expand by implementing newer technologies like cloud etc.
 
