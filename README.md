@@ -10,17 +10,17 @@ Problem Definition:
 The aim of the project is to create an effective software to help the pharmacist to maintain the records of the medicines, handle user details, generate invoice, check and renew validity and provide a scope of communication between users by using inbuilt messaging system. Pharmacy management system deals with the maintenance of drugs and consumables in the pharmacy unit. This pharmacy management system is user friendly.
 
 Objectives
-* Primary objective
-- To gain practical experience by modeling a software based on real world problem.
-- To understand how to work on Back-end (MySQL).
+1 Primary objective
+  - To gain practical experience by modeling a software based on real world problem.
+  - To understand how to work on Back-end (MySQL).
 
-& Secondary objective
-- To develop an application that deals with the day to day requirement of any pharmacy.
-- To develop the easy management of the medicines (drugs).
-- To handle the inventory details like sales details, purchase details and stock expiry and quantity.
-- To provide competitive advantage to the pharmacy.
-- To provide details information about the stock on details necessary and help locate it in shop easily.
-- To make the stock manageable and simplify the use of inventory in the pharmacy.
+2 Secondary objective
+  - To develop an application that deals with the day to day requirement of any pharmacy.
+  - To develop the easy management of the medicines (drugs).
+  - To handle the inventory details like sales details, purchase details and stock expiry and quantity.
+  - To provide competitive advantage to the pharmacy.
+  - To provide details information about the stock on details necessary and help locate it in shop easily.
+  - To make the stock manageable and simplify the use of inventory in the pharmacy.
 
 Hardware and software tools:
 The system services and goals are established by consultation with system user. They are then defined in details and serve as a system specification. System requirement are those on which the system runs.
