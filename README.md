@@ -12,7 +12,7 @@ The aim of the project is to create an effective software to help the pharmacist
 Objectives
 -> Primary objective
 •To gain practical experience by modeling a software based on real world problem.
-•To understand how to work on Front-end (Java) and Back-end (MySQL) by using server(wamp).
+•To understand how to work on Back-end (MySQL).
 
 -> Secondary objective
 •To develop an application that deals with the day to day requirement of any pharmacy.
