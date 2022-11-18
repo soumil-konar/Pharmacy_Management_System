@@ -41,7 +41,7 @@ The design of a DBMS depends on its architecture. It can be centralized or decen
 ER Diagram
 
 
-An entity–relationship model describes interrelated things of interest in a specific domain of knowledge (Refer Fig 1). It is composed of entity types and specifies relationships that can exist between instances of those entity types.
+An entity–relationship model describes interrelated things of interest in a specific domain of knowledge. It is composed of entity types and specifies relationships that can exist between instances of those entity types.
 
 Relational Schema Diagram
 
