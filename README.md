@@ -10,11 +10,11 @@ Problem Definition:
 The aim of the project is to create an effective software to help the pharmacist to maintain the records of the medicines, handle user details, generate invoice, check and renew validity and provide a scope of communication between users by using inbuilt messaging system. Pharmacy management system deals with the maintenance of drugs and consumables in the pharmacy unit. This pharmacy management system is user friendly.
 
 Objectives
--> Primary objective
+* Primary objective
 - To gain practical experience by modeling a software based on real world problem.
 - To understand how to work on Back-end (MySQL).
 
--> Secondary objective
+& Secondary objective
 - To develop an application that deals with the day to day requirement of any pharmacy.
 - To develop the easy management of the medicines (drugs).
 - To handle the inventory details like sales details, purchase details and stock expiry and quantity.
