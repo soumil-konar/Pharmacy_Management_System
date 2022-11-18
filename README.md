@@ -11,16 +11,16 @@ The aim of the project is to create an effective software to help the pharmacist
 
 Objectives
 -> Primary objective
-•To gain practical experience by modeling a software based on real world problem.
-•To understand how to work on Back-end (MySQL).
+- To gain practical experience by modeling a software based on real world problem.
+- To understand how to work on Back-end (MySQL).
 
 -> Secondary objective
-•To develop an application that deals with the day to day requirement of any pharmacy.
-•To develop the easy management of the medicines (drugs).
-•To handle the inventory details like sales details, purchase details and stock expiry and quantity.
-•To provide competitive advantage to the pharmacy.
-•To provide details information about the stock on details necessary and help locate it in shop easily.
-•To make the stock manageable and simplify the use of inventory in the pharmacy.
+- To develop an application that deals with the day to day requirement of any pharmacy.
+- To develop the easy management of the medicines (drugs).
+- To handle the inventory details like sales details, purchase details and stock expiry and quantity.
+- To provide competitive advantage to the pharmacy.
+- To provide details information about the stock on details necessary and help locate it in shop easily.
+- To make the stock manageable and simplify the use of inventory in the pharmacy.
 
 Hardware and software tools:
 The system services and goals are established by consultation with system user. They are then defined in details and serve as a system specification. System requirement are those on which the system runs.
@@ -31,8 +31,8 @@ ________________________________________________________________________________
 
 Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.
 It helps produce database systems:
-o That meet the requirements of the users
-o Have high performance.
+- That meet the requirements of the users
+- Have high performance.
 
 
 Architecture Description
