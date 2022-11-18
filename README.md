@@ -40,7 +40,7 @@ The design of a DBMS depends on its architecture. It can be centralized or decen
 
 ER Diagram
 
-![alt text](C:\Users\soumi\Desktop)
+![alt text](https://github.com/soumil-konar/Pharmacy_Management_System/blob/main/ER_diagram.png)
 
 An entity–relationship model describes interrelated things of interest in a specific domain of knowledge. It is composed of entity types and specifies relationships that can exist between instances of those entity types.
 
